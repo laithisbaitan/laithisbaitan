@@ -58,7 +58,7 @@
 
 <p align="center">
 <a href="https://github.com/laithisbaitan">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=laithisbaitan&theme=algolia&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=laithisbaitan&theme=algolia&hide_border=true" alt="GitHub Streak"/>
 </a>
 </p>
 <p align="center">
