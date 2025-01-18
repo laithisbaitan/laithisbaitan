@@ -58,7 +58,8 @@
 
 <p align="center">
 <a href="https://github.com/laithisbaitan">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=laithisbaitan&theme=algolia&hide_border=true" alt="GitHub Streak"/>
+  <!-- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=laithisbaitan&theme=algolia&hide_border=true" alt="GitHub Streak"/> -->
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=laithisbaitan&theme=algolia&hide_border=true&mode=weekly" alt="GitHub Streak" />
 </a>
 </p>
 <p align="center">
