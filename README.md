@@ -53,6 +53,7 @@
 ![Scratch](https://img.shields.io/badge/-Scratch-05122A?style=flat&logo=scratch)&nbsp;
 ![Microsoft Power Platform](https://img.shields.io/badge/-Microsoft%20Power%20Platform-05122A?style=flat&logo=microsoft-power-bi)&nbsp;
 ![CollectiveAccess](https://img.shields.io/badge/-CollectiveAccess-05122A?style=flat)&nbsp;
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat&logo=Odoo)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
